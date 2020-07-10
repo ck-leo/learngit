@@ -1,0 +1,4 @@
+# ide/editor
+.vscode
+.idea
+*.swap
